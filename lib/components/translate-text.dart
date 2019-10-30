@@ -44,6 +44,8 @@ class _TranslateTextState extends State<TranslateText> {
                 ),
               ),
             ),
+
+            /*
             Row(
               mainAxisAlignment: MainAxisAlignment.spaceBetween,
               children: <Widget>[
@@ -65,6 +67,7 @@ class _TranslateTextState extends State<TranslateText> {
                 ),
               ],
             ),
+          */
           ],
         ),
       ),
